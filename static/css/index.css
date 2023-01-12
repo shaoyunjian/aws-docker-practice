@@ -1,0 +1,29 @@
+.upload-photo-box {
+  border-bottom: 1px solid gray;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.upload-area {
+  margin: 0 auto;
+}
+
+.image {
+  width: 300px;
+}
+
+.message-image {
+  border-bottom: 1px solid gray;
+  text-align: center;
+  padding: 20px;
+}
+
+.message {
+  margin-bottom: 10px;
+}
+
+.image {
+  margin-top: 10px;
+}
