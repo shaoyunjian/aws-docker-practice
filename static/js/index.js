@@ -59,6 +59,9 @@ function loadPost(msg, img) {
   messageImage.appendChild(message)
   messageImage.appendChild(image)
   messageImageBox.appendChild(messageImage)
+
+  inputText.value = ""
+  inputFile.value = ""
 }
 
 
